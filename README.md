@@ -10,11 +10,9 @@ Designed with a minimalist approach inspired by modern product design, the websi
 
 ## 🚀 Live Website
 
-🔗 **Portfolio:** *(Add your Netlify URL here)*
+🔗 **Portfolio:** *
 
-Example:
-
-https://your-portfolio.netlify.app
+https://your-portfolio.netlify.app](https://personal-port1.netlify.app/)
 
 ---
 
